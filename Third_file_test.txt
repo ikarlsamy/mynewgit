@@ -1,0 +1,7 @@
+hi.....first/second/third text file for git 
+
+hello world
+hello world
+hello world
+
+
